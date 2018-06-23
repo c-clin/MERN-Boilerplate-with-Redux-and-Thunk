@@ -1,1 +1,1 @@
-# MERN Stack Boilerplate
+# MERN Stack Boilerplate with Redux and Thunk
